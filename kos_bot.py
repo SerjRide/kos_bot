@@ -1,7 +1,7 @@
 import vk_api, random, requests, json
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 
-token = 'ba56658e915221087b77700935e370a4ba6e3df42f413c096551d09760a51b090b98b8dc9d4138b5ba063'
+token = ''
 
 def read_message(text):
     types       = ['voice', 'text', 'photo']
