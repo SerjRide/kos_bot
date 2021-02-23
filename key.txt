@@ -1,0 +1,22 @@
+{
+  "ts":"4",
+  "updates":[
+    {
+      "type":"wall_post_new",
+      "object":{
+          "id":28,
+          "from_id":-123456,
+          "owner_id":-123456,
+          "date":1519631591,
+          "marked_as_ads":0,
+          "post_type":"post",
+          "text":"Post text",
+          "can_edit":1,
+          "created_by":564321,
+          "can_delete":1,
+          "comments":{"count":0}
+        },
+      "group_id":123456
+    }
+  ]
+}
